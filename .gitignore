@@ -155,9 +155,9 @@ dmypy.json
 cython_debug/
 
 #Image database:
-./caltech101/
+caltech101/
 # Virtual Environment:
-./project_env/
+project_env/
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
