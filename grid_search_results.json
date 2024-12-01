@@ -1,0 +1,116 @@
+[
+    {
+        "maxCorners": 100,
+        "qualityLevel": 0.01,
+        "minDistance": 8,
+        "n_components": 20,
+        "avg_score": 0.10113785733512048
+    },
+    {
+        "maxCorners": 100,
+        "qualityLevel": 0.01,
+        "minDistance": 8,
+        "n_components": 30,
+        "avg_score": 0.09537427213289584
+    },
+    {
+        "maxCorners": 100,
+        "qualityLevel": 0.01,
+        "minDistance": 10,
+        "n_components": 20,
+        "avg_score": 0.08932426704472347
+    },
+    {
+        "maxCorners": 100,
+        "qualityLevel": 0.01,
+        "minDistance": 10,
+        "n_components": 30,
+        "avg_score": 0.101138480122435
+    },
+    {
+        "maxCorners": 100,
+        "qualityLevel": 0.02,
+        "minDistance": 8,
+        "n_components": 20,
+        "avg_score": 0.0989768476324678
+    },
+    {
+        "maxCorners": 100,
+        "qualityLevel": 0.02,
+        "minDistance": 8,
+        "n_components": 30,
+        "avg_score": 0.10128159664731168
+    },
+    {
+        "maxCorners": 100,
+        "qualityLevel": 0.02,
+        "minDistance": 10,
+        "n_components": 20,
+        "avg_score": 0.08500206080322374
+    },
+    {
+        "maxCorners": 100,
+        "qualityLevel": 0.02,
+        "minDistance": 10,
+        "n_components": 30,
+        "avg_score": 0.08226441232605707
+    },
+    {
+        "maxCorners": 150,
+        "qualityLevel": 0.01,
+        "minDistance": 8,
+        "n_components": 20,
+        "avg_score": 0.09667110215792069
+    },
+    {
+        "maxCorners": 150,
+        "qualityLevel": 0.01,
+        "minDistance": 8,
+        "n_components": 30,
+        "avg_score": 0.09595159597345582
+    },
+    {
+        "maxCorners": 150,
+        "qualityLevel": 0.01,
+        "minDistance": 10,
+        "n_components": 20,
+        "avg_score": 0.006195176811186955
+    },
+    {
+        "maxCorners": 150,
+        "qualityLevel": 0.01,
+        "minDistance": 10,
+        "n_components": 30,
+        "avg_score": 0.006195176811186955
+    },
+    {
+        "maxCorners": 150,
+        "qualityLevel": 0.02,
+        "minDistance": 8,
+        "n_components": 20,
+        "avg_score": 0.09307045729902373
+    },
+    {
+        "maxCorners": 150,
+        "qualityLevel": 0.02,
+        "minDistance": 8,
+        "n_components": 30,
+        "avg_score": 0.09840064480907396
+    },
+    {
+        "maxCorners": 150,
+        "qualityLevel": 0.02,
+        "minDistance": 10,
+        "n_components": 20,
+        "avg_score": 0.06396717014038748
+    },
+    {
+        "maxCorners": 150,
+        "qualityLevel": 0.02,
+        "minDistance": 10,
+        "n_components": 30,
+        "avg_score": 0.06396717014038748
+    }
+]
+Best Parameters: {'maxCorners': 100, 'qualityLevel': 0.02, 'minDistance': 8, 'n_components': 30}
+Best Score: 0.10128159664731168
